@@ -1,0 +1,28 @@
+.body{
+  background-color: #fff;
+ }
+.summary {
+  text-align: center;
+}
+
+.edu {
+  font-variant: small-caps;
+  font-style: italic;
+  color: red;
+}
+
+.work {
+  font-weight: bolder;
+  color: #66ff33;
+}
+
+.goals {
+  font-variant: small-caps;
+  font-family: fantasy;
+  color: purple;
+}
+
+.bio {
+  font-style: italic;
+  font-weight: bold;
+}
